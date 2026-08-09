@@ -84,7 +84,7 @@ Wishlist Feature
 Booking History
 👨‍💻 Developer
 
-Developed by Debra.
+Developed by Debraj.
 
 📄 License
 
